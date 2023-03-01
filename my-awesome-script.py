@@ -1,3 +1,3 @@
 #!/bin/python
-
-print('Hello, World!')
+#This is an awesome Python script
+print('Hajimemashite sekai!')
