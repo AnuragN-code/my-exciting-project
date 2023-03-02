@@ -1,0 +1,6 @@
+#this is a git ignore file
+ 
+ build/
+ *.env
+ test-runs/logs/
+ *.csv
